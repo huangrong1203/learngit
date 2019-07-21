@@ -1,1 +1,21 @@
-huang
+#学习笔记
+##git
+git  init       初始化
+git add <file>   增加一个文件
+git add.     增加所有文件
+git commit-m“first commit”    提交说明
+git status   查看状态
+rm 文件名  删除文件
+分支
+branch
+默认  master 主分支  稳定分支
+git checkout -b  dev(分支名)   新建分支
+git branch   查看分支
+git checkout 分支名     切换分支
+##code
+#个数表示标题大小
+序号
+1.text
+2.text
+无序序号
+*
